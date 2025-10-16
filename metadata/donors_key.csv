@@ -1,0 +1,25 @@
+﻿City,State,Country,site_name,site_code,donor_name,Latitude,Longitude,n_moths,colors
+Albertinaplatz,Vienna,Austria,Albertina Museum,aus1,donor1,48.204489,16.368637,54,#9F0035
+Canberra,Australian Capital Territory,Australia,Bernard Nutt,canb1,donor2,-35.343984,149.085867,4,#C80000
+Detroit,Michigan,USA,Christina Biscula,mich,donor3,42.359161,-83.065132,6,#C27000
+Boulder,Colorado,USA,CU Boulder Museum of Natural History,col,donor4,40.006451,-105.273009,1,#92C200
+Arlington,Massachusetts,USA,Eileen Maher,arl,donor5,42.402149,-71.146211,4,#00FF80
+Prince William,New Brunswick,Canada,Evelyn Fidler,can,donor6,45.875029,-66.980912,2,#00D9CC
+Paris,Paris Region,France,Fondation Cartier pour l'art contemporain,fran,donor7,48.837615,2.331508,2,#00A4FF
+Adelaide,South Australia,Australia,Helen Weidenhofer,ade,donor8,-34.952937,138.602022,19,#006AFF
+Waltham,Massachusetts,USA,Isabel Novick,wal,donor9,42.37195,-71.225782,27,#0014B3
+Cambridge,Massachusetts,USA,Karen Zee,cam,donor10,42.385535,-71.132503,20,#C50091
+Tallinn,Harju,Estonia,Lennart Lennuek,esto,donor11,59.440322,24.74375,1,#FF0055
+Belmont,Massachusetts,USA,Michael Bell,bel,donor12,42.387553,-71.187147,15,#FF8000
+Santiago,Santiago Metropolitan Region,Chile,Museo Chileno de Arte Precolombino,chil,donor13,-33.438901,-70.652313,1,#F8E196
+Boston,Massachusetts,USA,Museum of Science,bos,donor14,42.368039,-71.072031,17,#94BE7A
+Dresden,Saxony,Germany,Museum of Zoology Dresden,germ1,donor15,51.128027,13.792819,3,#1D9576
+Richmond,Surrey,UK,National Archives Surrey,uk,donor16,51.478885,-0.280032,23,#006775
+Albuquerque,New Mexico,USA,New Mexico Natural History Museum,nmex,donor17,35.098202,-106.665291,3,#003A66
+Suitland,Maryland,USA,NMAI Cultural Resource Center,mary,donor18,38.851871,-76.918668,8,#335797
+Berlin,Berlin,Germany,Rudy Plarre,germ2,donor19,52.443132,13.287553,20,#A472B0
+Lobkowitzplatz,Vienna,Austria,Theater Museum,aus2,donor20,48.205605,16.36852,30,#F595B5
+Canberra,Australian Capital Territory,Australia,Tonya Hoff,canb2,donor21,-35.261323,149.150801,7,#FFCAB7
+New Haven,Connecticut,USA,Yale,con,donor22,41.315689,-72.920776,14,#DBA96C
+Karkafa,Bethlehem,Palestine,Palestine Museum of Natural History,pal,donor23,,,1,#C50056
+Ilorin,Kwara,Nigeria,Abiodun Obembe,kwar,donor24,,,1,#769477

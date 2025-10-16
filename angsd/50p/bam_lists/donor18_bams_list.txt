@@ -1,0 +1,8 @@
+IAN_2brad_L1_2_S2_L001_R1_001_GACT.trim.bt2.bam
+IAN_2brad_L1_2_S2_L001_R1_001_TCAC.trim.bt2.bam
+IAN_2brad_L1_2_S2_L001_R1_001_TGTC.trim.bt2.bam
+IAN_2brad_L1_6_S6_L001_R1_001_TGGT.trim.bt2.bam
+IAN_2brad_L2_4_S12_L002_R1_001_GCTT.trim.bt2.bam
+IAN_2brad_L2_4_S12_L002_R1_001_TCAG.trim.bt2.bam
+IAN_2brad_L4_3_S11_L002_R1_001_GCTT.trim.bt2.bam
+IAN_2brad_L4_3_S11_L002_R1_001_TCAC.trim.bt2.bam

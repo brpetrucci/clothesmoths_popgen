@@ -1,0 +1,84 @@
+bam,barcode,sample_name,City,State,Country,Donor
+IAN_2brad_L1_1_S1_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN11-22-21-17,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_1_S1_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN11-22-21-11,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_1_S1_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN11-22-21-28,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_1_S1_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN3-17-22-2,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_1_S1_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN3-17-22-24,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_1_S1_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN3-17-22-10,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_1_S1_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN3-17-22-5,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_1_S1_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN11-22-21-05,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_1_S1_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN3-17-22-16,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_2_S2_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN3-17-22-29,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_2_S2_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN3-17-22-26,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_2_S2_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN3-17-22-34,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_2_S2_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN3-22-22-2,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_2_S2_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN3-24-22-10,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_2_S2_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN3-22-22-9,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_2_S2_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN3-24-22-3,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_2_S2_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN3-17-22-25,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_4_S4_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN7-18-22-31,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L1_4_S4_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN7-18-22-25,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L1_5_S5_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN11-22-21-08,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN11-22-21-01,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN11-22-21-10,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN11-22-21-13,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN2-1-22-11,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN11-22-21-26,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN11-22-21-16,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN2-1-22-10,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN11-22-21-22,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN2-1-22-08,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_8_S8_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN3-17-22-41,Arlington,Massachusetts,USA,Eileen Maher
+IAN_2brad_L1_8_S8_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN3-17-22-44,Arlington,Massachusetts,USA,Eileen Maher
+IAN_2brad_L1_8_S8_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN3-17-22-46,Arlington,Massachusetts,USA,Eileen Maher
+IAN_2brad_L1_8_S8_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN3-22-22-5,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_8_S8_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN3-22-22-12,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_8_S8_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN3-17-22-48,Arlington,Massachusetts,USA,Eileen Maher
+IAN_2brad_L2_1_S9_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN3-17-22-15,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L2_1_S9_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN3-17-22-6,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L2_1_S9_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN3-17-22-1,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L2_2_S10_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN7-18-22-14,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L2_2_S10_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN3-17-22-18,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L2_3_S11_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN11-22-21-04,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L2_3_S11_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN11-22-21-12,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L2_3_S11_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN11-22-21-19,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L2_3_S11_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN2-1-22-18,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L2_3_S11_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN2-1-22-28,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L2_3_S11_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN11-17-21-01,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_ACCA.trim.bt2.bam,ACCA,IAN3-24-22-9,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN3-24-22-7,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN3-24-22-11,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN3-24-22-13,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN3-24-22-15,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN3-24-22-5,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L3_5_S5_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN2-1-22-6,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L3_6_S6_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN7-18-22-16,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN7-18-22-15,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN7-18-22-27,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN7-18-22-30,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN7-18-22-23,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN7-18-22-21,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN7-18-22-29,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN7-18-22-22,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN7-18-22-13,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN7-18-22-28,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN7-18-22-35,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN7-18-22-34,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN7-18-22-36,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN7-18-22-37,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN7-18-22-41,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN7-18-22-38,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN7-18-22-44,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN7-18-22-39,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN7-18-22-32,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN7-18-22-43,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_8_S8_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN7-18-22-48,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_8_S8_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN7-18-22-47,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_8_S8_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN7-18-22-49,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_8_S8_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN7-18-22-46,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L4_2_S10_L002_R1_001_ACCA.trim.bt2.bam,ACCA,IAN3-24-22-12,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L4_2_S10_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN3-24-22-1,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L4_2_S10_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN3-24-22-14,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L4_2_S10_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN3-17-22-8,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L4_2_S10_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN3-22-22-7,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L4_3_S11_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN3-17-22-20,Belmont,Massachusetts,USA,Michael Bell

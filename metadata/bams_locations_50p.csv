@@ -1,0 +1,282 @@
+bam,barcode,sample_name,City,State,Country,Donor
+IAN_2brad_L1_1_S1_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN11-22-21-17,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_1_S1_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN11-22-21-11,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_1_S1_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN11-22-21-28,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_1_S1_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN3-17-22-2,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_1_S1_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN3-17-22-24,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_1_S1_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN3-17-22-10,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_1_S1_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN3-17-22-5,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_1_S1_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN11-22-21-05,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_1_S1_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN3-17-22-16,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_2_S2_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN3-17-22-29,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_2_S2_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN3-17-22-26,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_2_S2_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN3-17-22-34,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_2_S2_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN3-22-22-2,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_2_S2_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN3-31-22-8,Suitland,Maryland,USA,NMAI Cultural Resource Center
+IAN_2brad_L1_2_S2_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN3-24-22-10,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_2_S2_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN3-22-22-9,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_2_S2_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN3-31-22-7,Suitland,Maryland,USA,NMAI Cultural Resource Center
+IAN_2brad_L1_2_S2_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN3-24-22-3,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_2_S2_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN3-17-22-25,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L1_2_S2_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN3-31-22-5,Suitland,Maryland,USA,NMAI Cultural Resource Center
+IAN_2brad_L1_3_S3_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN6-20-22-26,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L1_3_S3_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN6-13-22-83,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L1_3_S3_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN5-19-22-5,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L1_3_S3_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN5-19-22-9,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L1_3_S3_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN5-28-22-01,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L1_3_S3_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN5-28-22-14A,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L1_3_S3_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN5-19-22-27,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L1_3_S3_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN5-19-22-23,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L1_3_S3_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN5-28-22-11,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L1_3_S3_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN5-19-22-24,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L1_3_S3_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN6-13-22-35,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L1_3_S3_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN5-28-22-02,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L1_4_S4_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN5-28-22-23,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L1_4_S4_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN5-28-22-24,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L1_4_S4_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN6-13-22-74,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L1_4_S4_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN6-20-22-10,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L1_4_S4_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN7-18-22-31,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L1_4_S4_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN6-20-22-06,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L1_4_S4_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN7-18-22-25,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L1_4_S4_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN6-14-22-02,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L1_4_S4_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN5-28-22-8,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L1_4_S4_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN6-20-22-59,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L1_5_S5_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN11-22-21-08,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN11-22-21-01,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN11-22-21-10,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN11-22-21-13,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN2-1-22-11,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN11-22-21-26,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN11-22-21-16,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN2-1-22-10,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN11-22-21-22,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_5_S5_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN2-1-22-08,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L1_6_S6_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN5-19-22-28,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_6_S6_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN5-19-22-31,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_6_S6_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN5-19-22-32,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_6_S6_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN5-19-22-36,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_6_S6_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN5-19-22-39,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_6_S6_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN5-19-22-35,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_6_S6_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN5-19-22-33,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_6_S6_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN5-19-22-38,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_6_S6_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN5-19-22-34,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_6_S6_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN3-31-22-2,Suitland,Maryland,USA,NMAI Cultural Resource Center
+IAN_2brad_L1_6_S6_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN5-19-22-37,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_7_S7_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN5-19-22-42,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_7_S7_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN5-19-22-41,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_7_S7_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN5-19-22-43,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_7_S7_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN5-19-22-44,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_7_S7_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN5-19-22-48,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_7_S7_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN5-19-22-47,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_7_S7_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN5-19-22-45,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_7_S7_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN5-19-22-46,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_7_S7_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN5-19-22-40,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_7_S7_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN5-19-22-49,Berlin,Berlin,Germany,Rudy Plarre
+IAN_2brad_L1_8_S8_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN3-17-22-41,Arlington,Massachusetts,USA,Eileen Maher
+IAN_2brad_L1_8_S8_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN3-17-22-44,Arlington,Massachusetts,USA,Eileen Maher
+IAN_2brad_L1_8_S8_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN3-17-22-46,Arlington,Massachusetts,USA,Eileen Maher
+IAN_2brad_L1_8_S8_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN3-22-22-5,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_8_S8_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN3-22-22-12,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L1_8_S8_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN3-17-22-48,Arlington,Massachusetts,USA,Eileen Maher
+IAN_2brad_L2_1_S9_L002_R1_001_ACCA.trim.bt2.bam,ACCA,IAN3-15-22-13,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_1_S9_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN3-15-22-12,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_1_S9_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN3-15-22-15,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_1_S9_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN3-15-22-17,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_1_S9_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN3-15-22-30,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_1_S9_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN3-17-22-15,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L2_1_S9_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN3-15-22-26,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_1_S9_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN3-15-22-19,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_1_S9_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN3-17-22-6,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L2_1_S9_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN3-15-22-23,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_1_S9_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN3-15-22-09,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_1_S9_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN3-17-22-1,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L2_2_S10_L002_R1_001_ACCA.trim.bt2.bam,ACCA,IAN5-28-22-14B,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_2_S10_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN5-28-22-7,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_2_S10_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN5-28-22-25,Paris,Paris Region,France,Fondation Cartier pour l'art contemporain
+IAN_2brad_L2_2_S10_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN5-28-22-27,Detroit,Michigan,USA,Christina Biscula
+IAN_2brad_L2_2_S10_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN6-20-22-13,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L2_2_S10_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN7-18-22-14,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L2_2_S10_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN6-20-22-11,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L2_2_S10_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN3-3-22-2,Boulder,Colorado,USA,CU Boulder Museum of Natural History
+IAN_2brad_L2_2_S10_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN3-17-22-18,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L2_2_S10_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN6-20-22-7,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L2_2_S10_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN5-28-22-6,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_2_S10_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN6-20-22-14,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L2_3_S11_L002_R1_001_ACCA.trim.bt2.bam,ACCA,IAN5-28-22-3,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_3_S11_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN11-22-21-04,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L2_3_S11_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN11-22-21-12,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L2_3_S11_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN11-22-21-19,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L2_3_S11_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN3-15-22-03,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_3_S11_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN3-15-22-06,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_3_S11_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN3-15-22-02,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_3_S11_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN2-1-22-18,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L2_3_S11_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN3-15-22-05,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_3_S11_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN2-1-22-28,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L2_3_S11_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN11-17-21-01,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_3_S11_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN3-15-22-04,New Haven,Connecticut,USA,Yale
+IAN_2brad_L2_4_S12_L002_R1_001_ACCA.trim.bt2.bam,ACCA,IAN3-24-22-9,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN3-24-22-7,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN3-24-22-11,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN3-24-22-13,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN5-03-22-2,Prince William,New Brunswick,Canada,Evelyn Fidler
+IAN_2brad_L2_4_S12_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN5-19-22-14,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L2_4_S12_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN3-31-22-6,Suitland,Maryland,USA,NMAI Cultural Resource Center
+IAN_2brad_L2_4_S12_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN3-24-22-15,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN5-19-22-11,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L2_4_S12_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN3-31-22-1,Suitland,Maryland,USA,NMAI Cultural Resource Center
+IAN_2brad_L2_4_S12_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN3-24-22-5,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L2_4_S12_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN5-19-22-10,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L2_5_S13_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN5-19-22-16,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L2_5_S13_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN5-19-22-22,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L2_5_S13_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN5-19-22-26,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L2_5_S13_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN5-28-22-12,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_5_S13_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN5-28-22-17,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_5_S13_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN5-28-22-10,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_5_S13_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN5-28-22-04,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_5_S13_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN5-28-22-15,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_5_S13_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN5-28-22-09,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_5_S13_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN5-19-22-15,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L2_5_S13_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN5-28-22-13,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_6_S14_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN5-28-22-19,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_6_S14_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN5-28-22-21,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_6_S14_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN5-28-22-22,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_6_S14_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN5-28-22-30,Detroit,Michigan,USA,Christina Biscula
+IAN_2brad_L2_6_S14_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN6-02-22-05,Tallinn,Harju,Estonia,Lennart Lennuek
+IAN_2brad_L2_6_S14_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN5-28-22-29,Detroit,Michigan,USA,Christina Biscula
+IAN_2brad_L2_6_S14_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN5-28-22-26,Paris,Paris Region,France,Fondation Cartier pour l'art contemporain
+IAN_2brad_L2_6_S14_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN5-28-22-32,Detroit,Michigan,USA,Christina Biscula
+IAN_2brad_L2_6_S14_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN6-13-22-25,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_6_S14_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN5-28-22-18,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_6_S14_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN5-28-22-31,Detroit,Michigan,USA,Christina Biscula
+IAN_2brad_L2_7_S15_L002_R1_001_ACCA.trim.bt2.bam,ACCA,IAN5-28-22-20,Richmond,Surrey,UK,National Archives Surrey
+IAN_2brad_L2_7_S15_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN6-13-22-02,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_7_S15_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN6-13-22-04,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_7_S15_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN6-13-22-05,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_7_S15_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN6-13-22-09,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_7_S15_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN6-13-22-13,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_7_S15_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN6-13-22-08,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_7_S15_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN6-13-22-06,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_7_S15_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN6-13-22-11,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_7_S15_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN6-13-22-07,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_7_S15_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN6-13-22-01,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L2_7_S15_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN6-13-22-10,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_8_S16_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN6-13-22-30,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_8_S16_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN6-13-22-34,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_8_S16_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN6-13-22-27,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_8_S16_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN6-13-22-24,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_8_S16_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN6-13-22-33,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_8_S16_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN6-13-22-14,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L2_8_S16_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN6-13-22-32,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_1_S1_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN6-13-22-42,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_1_S1_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN6-13-22-38,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_1_S1_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN6-13-22-43,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_1_S1_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN6-13-22-44,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_1_S1_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN6-13-22-57,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_1_S1_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN6-13-22-61,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_1_S1_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN6-13-22-55,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_1_S1_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN6-13-22-45,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_1_S1_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN6-13-22-59,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_1_S1_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN6-13-22-58,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN6-13-22-65,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN6-13-22-64,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN6-13-22-66,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN6-13-22-75,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN6-13-22-78,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN6-13-22-72,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN6-13-22-69,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN6-13-22-77,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN6-13-22-71,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN6-13-22-62,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_2_S2_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN6-13-22-76,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_3_S3_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN6-14-22-7,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_3_S3_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN6-14-22-8,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_3_S3_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN6-14-22-9,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_3_S3_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN6-14-22-16,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_3_S3_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN6-20-22-17,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_3_S3_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN6-14-22-15,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_3_S3_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN6-14-22-10,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_3_S3_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN6-20-22-16,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_3_S3_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN6-14-22-12,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L3_3_S3_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN6-20-22-15,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_4_S4_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN6-20-22-38,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_4_S4_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN6-20-22-39,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_4_S4_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN6-20-22-46,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_4_S4_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN6-20-22-45,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_4_S4_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN6-20-22-40,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_4_S4_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN6-20-22-50,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_4_S4_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN6-20-22-44,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_4_S4_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN6-20-22-18,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_4_S4_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN6-20-22-47,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_5_S5_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN6-20-22-64,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_5_S5_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN6-20-22-63,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_5_S5_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN6-20-22-65,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_5_S5_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN6-20-22-66,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_5_S5_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN6-20-22-73,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_5_S5_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN2-1-22-6,Cambridge,Massachusetts,USA,Karen Zee
+IAN_2brad_L3_5_S5_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN6-20-22-70,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_5_S5_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN6-20-22-78,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_5_S5_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN6-20-22-71,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_5_S5_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN6-20-22-62,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_5_S5_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN6-20-22-77,Lobkowitzplatz,Vienna,Austria,Theater Museum
+IAN_2brad_L3_6_S6_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN7-18-22-16,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN7-18-22-15,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN7-18-22-27,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_GACT.trim.bt2.bam,GACT,IAN7-18-22-30,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN7-18-22-23,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN7-18-22-21,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN7-18-22-29,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN7-18-22-22,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN7-18-22-13,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_6_S6_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN7-18-22-28,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN7-18-22-35,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN7-18-22-34,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN7-18-22-36,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_CATC.trim.bt2.bam,CATC,IAN7-18-22-37,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN7-18-22-41,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN7-18-22-38,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN7-18-22-44,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN7-18-22-39,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN7-18-22-32,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_7_S7_L001_R1_001_TGTC.trim.bt2.bam,TGTC,IAN7-18-22-43,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_8_S8_L001_R1_001_ACCA.trim.bt2.bam,ACCA,IAN7-18-22-48,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_8_S8_L001_R1_001_AGAC.trim.bt2.bam,AGAC,IAN7-18-22-47,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_8_S8_L001_R1_001_AGTG.trim.bt2.bam,AGTG,IAN7-18-22-49,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L3_8_S8_L001_R1_001_CTAC.trim.bt2.bam,CTAC,IAN8-18-22-7,Canberra,Australian Capital Territory,Australia,Tonya Hoff
+IAN_2brad_L3_8_S8_L001_R1_001_GCTT.trim.bt2.bam,GCTT,IAN8-18-22-6,Canberra,Australian Capital Territory,Australia,Tonya Hoff
+IAN_2brad_L3_8_S8_L001_R1_001_GTGA.trim.bt2.bam,GTGA,IAN8-18-22-3,Canberra,Australian Capital Territory,Australia,Tonya Hoff
+IAN_2brad_L3_8_S8_L001_R1_001_TCAC.trim.bt2.bam,TCAC,IAN8-18-22-9,Canberra,Australian Capital Territory,Australia,Tonya Hoff
+IAN_2brad_L3_8_S8_L001_R1_001_TCAG.trim.bt2.bam,TCAG,IAN8-18-22-5,Canberra,Australian Capital Territory,Australia,Tonya Hoff
+IAN_2brad_L3_8_S8_L001_R1_001_TGGT.trim.bt2.bam,TGGT,IAN7-18-22-46,Waltham,Massachusetts,USA,Isabel Novick
+IAN_2brad_L4_1_S9_L002_R1_001_ACCA.trim.bt2.bam,ACCA,IAN8-23-22-13,Albuquerque,New Mexico,USA,New Mexico Natural History Museum
+IAN_2brad_L4_1_S9_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN8-23-22-12,Santiago,Santiago Metropolitan Region,Chile,Museo Chileno de Arte Precolombino
+IAN_2brad_L4_1_S9_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN8-23-22-15,Albuquerque,New Mexico,USA,New Mexico Natural History Museum
+IAN_2brad_L4_1_S9_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN4-19-23-1,Canberra,Australian Capital Territory,Australia,Bernard Nutt
+IAN_2brad_L4_1_S9_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN4-19-23-5,Canberra,Australian Capital Territory,Australia,Bernard Nutt
+IAN_2brad_L4_1_S9_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN1-23-23-3,Dresden,Saxony,Germany,Museum of Zoology Dresden
+IAN_2brad_L4_1_S9_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN1-23-23-1,Dresden,Saxony,Germany,Museum of Zoology Dresden
+IAN_2brad_L4_1_S9_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN4-19-23-3,Canberra,Australian Capital Territory,Australia,Bernard Nutt
+IAN_2brad_L4_1_S9_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN1-23-23-2,Dresden,Saxony,Germany,Museum of Zoology Dresden
+IAN_2brad_L4_1_S9_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN4-19-23-2,Canberra,Australian Capital Territory,Australia,Bernard Nutt
+IAN_2brad_L4_2_S10_L002_R1_001_ACCA.trim.bt2.bam,ACCA,IAN3-24-22-12,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L4_2_S10_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN3-24-22-1,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L4_2_S10_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN3-24-22-14,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L4_2_S10_L002_R1_001_GTGA.trim.bt2.bam,GTGA,IAN5-3-22-1,Prince William,New Brunswick,Canada,Evelyn Fidler
+IAN_2brad_L4_2_S10_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN3-17-22-8,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L4_2_S10_L002_R1_001_TGGT.trim.bt2.bam,TGGT,IAN3-22-22-7,Boston,Massachusetts,USA,Museum of Science
+IAN_2brad_L4_2_S10_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN5-19-22-17,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L4_3_S11_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN8-18-22-1,Canberra,Australian Capital Territory,Australia,Tonya Hoff
+IAN_2brad_L4_3_S11_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN8-18-22-4,Canberra,Australian Capital Territory,Australia,Tonya Hoff
+IAN_2brad_L4_3_S11_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN3-17-22-20,Belmont,Massachusetts,USA,Michael Bell
+IAN_2brad_L4_3_S11_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN3-31-22-4,Suitland,Maryland,USA,NMAI Cultural Resource Center
+IAN_2brad_L4_3_S11_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN3-31-22-3,Suitland,Maryland,USA,NMAI Cultural Resource Center
+IAN_2brad_L4_3_S11_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN8-23-22-16,Albuquerque,New Mexico,USA,New Mexico Natural History Museum
+IAN_2brad_L4_3_S11_L002_R1_001_TGTC.trim.bt2.bam,TGTC,IAN6-13-22-82,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L4_4_S12_L002_R1_001_ACCA.trim.bt2.bam,ACCA,IAN5-19-22-21,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L4_4_S12_L002_R1_001_AGAC.trim.bt2.bam,AGAC,IAN6-13-22-15,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L4_4_S12_L002_R1_001_AGTG.trim.bt2.bam,AGTG,IAN6-13-22-18,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L4_4_S12_L002_R1_001_CATC.trim.bt2.bam,CATC,IAN6-13-22-22,Albertinaplatz,Vienna,Austria,Albertina Museum
+IAN_2brad_L4_4_S12_L002_R1_001_CTAC.trim.bt2.bam,CTAC,IAN5-19-22-13,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L4_4_S12_L002_R1_001_GACT.trim.bt2.bam,GACT,IAN5-19-22-19,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L4_4_S12_L002_R1_001_GCTT.trim.bt2.bam,GCTT,IAN5-19-22-8,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L4_4_S12_L002_R1_001_TCAC.trim.bt2.bam,TCAC,IAN5-19-22-18,Adelaide,South Australia,Australia,Helen Weidenhofer
+IAN_2brad_L4_4_S12_L002_R1_001_TCAG.trim.bt2.bam,TCAG,IAN5-28-22-28,Detroit,Michigan,USA,Christina Biscula
